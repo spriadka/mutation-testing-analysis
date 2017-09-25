@@ -1,0 +1,3 @@
+[submodule "hibernate-orm"]
+	path = hibernate-orm
+	url = git@github.com:spriadka/hibernate-orm.git
